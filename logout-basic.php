@@ -4,7 +4,7 @@
 <head>
 
     <meta charset="utf-8" />
-    <title>Log Out | Velzon - Admin & Dashboard Template</title>
+    <title>Log Out | E-Perdin</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesbrand" name="author" />
@@ -45,11 +45,11 @@
                     <div class="col-lg-12">
                         <div class="text-center mt-sm-5 mb-4 text-white-50">
                             <div>
-                                <a href="index.html" class="d-inline-block auth-logo">
-                                    <img src="assets/images/logo-light.png" alt="" height="20">
+                                <a href="index.php" class="d-inline-block auth-logo">
+                                    <img src="assets/images/Importa Logo Primary - White.png" alt="" height="50">
                                 </a>
                             </div>
-                            <p class="mt-3 fs-15 fw-medium">Premium Admin & Dashboard Template</p>
+                            <p class="mt-3 fs-15 fw-medium"></p>
                         </div>
                     </div>
                 </div>
@@ -63,9 +63,9 @@
 
                                 <div class="mt-4 pt-2">
                                     <h5>You are Logged Out</h5>
-                                    <p class="text-muted">Thank you for using <span class="fw-semibold">velzon</span> admin template</p>
+                                    <p class="text-muted">Thank you for using <span class="fw-semibold">Digitalisasi Perjalanan Dinas</span> </p>
                                     <div class="mt-4">
-                                        <a href="auth-signin-basic.html" class="btn btn-success w-100">Sign In</a>
+                                        <a href="index.php" class="btn btn-success w-100">Login Kembali</a>
                                     </div>
                                 </div>
                             </div>
@@ -89,7 +89,9 @@
                     <div class="col-lg-12">
                         <div class="text-center">
                             <p class="mb-0 text-muted">&copy;
-                                <script>document.write(new Date().getFullYear())</script> Velzon. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand
+                                <script>
+                                    document.write(new Date().getFullYear())
+                                </script> Velzon. Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand
                             </p>
                         </div>
                     </div>
